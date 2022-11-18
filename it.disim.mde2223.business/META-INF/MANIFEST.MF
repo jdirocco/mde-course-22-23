@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: Business
-Bundle-SymbolicName: it.disim.mde2223.business
-Bundle-Version: 1.0.0.qualifier
-Export-Package: it.disim.mde2223.business
-Automatic-Module-Name: it.disim.mde2223.business
-Bundle-RequiredExecutionEnvironment: JavaSE-17
