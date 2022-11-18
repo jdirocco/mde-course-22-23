@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ui
+Bundle-SymbolicName: it.disim.mde2223.ui;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui,
+ it.disim.mde2223.business;bundle-version="1.0.0"
+Automatic-Module-Name: it.disim.mde2223.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-17
