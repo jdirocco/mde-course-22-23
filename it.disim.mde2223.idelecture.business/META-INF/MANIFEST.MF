@@ -4,5 +4,7 @@ Bundle-Name: Business
 Bundle-SymbolicName: it.disim.mde2223.idelecture.business
 Bundle-Version: 1.0.0.qualifier
 Export-Package: it.disim.mde2223.idelecture.business
+Require-Bundle: it.disim.mde2223.webapplication.model;bundle-version="1.0.0",
+ org.eclipse.emf.ecore.xmi
 Automatic-Module-Name: it.disim.mde2223.idelecture.business
 Bundle-RequiredExecutionEnvironment: JavaSE-17

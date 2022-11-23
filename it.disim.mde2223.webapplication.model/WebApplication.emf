@@ -1,0 +1,29 @@
+@namespace(uri="https://it.disim.mde2223/webapplication", prefix="wa")
+package Web;
+
+class WebApplication extends NamedElement {
+	val Entity[*] entities;
+	val Index[*] indexes;
+}
+
+class Entity extends NamedElement {
+	val Attribute[*] attributes;
+}
+
+class Attribute extends NamedElement {
+	attr _DataType type;
+}
+
+class NamedElement {
+	attr String name;
+}
+
+class Index extends NamedElement {
+	ref Attribute[1] indexAttribute;
+}
+
+enum _DataType {
+	String = 0;
+	int = 0;
+}
+

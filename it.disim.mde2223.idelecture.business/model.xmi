@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ASCII"?>
+<wa:WebApplication xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:wa="https://it.disim.mde2223/webapplication">
+  <entities name="entity1"/>
+  <entities name="entity2"/>
+</wa:WebApplication>

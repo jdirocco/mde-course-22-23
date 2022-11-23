@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" uid="_Vrc3YGpMEe290_EEa-czyA" version="15.0.0.202201261500">
+  <semanticResources>WebApplication.ecore</semanticResources>
+  <semanticResources>WebApplication.xmi</semanticResources>
+  <semanticResources>WebApplication.genmodel</semanticResources>
+  <semanticResources>plugin.xml</semanticResources>
+  <semanticResources>WebApplication.emf</semanticResources>
+</viewpoint:DAnalysis>

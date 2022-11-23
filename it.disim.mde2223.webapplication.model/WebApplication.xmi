@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wa:WebApplication
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:wa="https://it.disim.mde2223/webapplication"
+    name="namer">
+  <entities
+      name="User">
+    <attributes
+        name="firstName"/>
+  </entities>
+  <entities
+      name="Grouip">
+    <attributes
+        name="groupName"/>
+  </entities>
+  <indexes name="Juri"
+      indexAttribute="//@entities.1/@attributes.0"/>
+</wa:WebApplication>

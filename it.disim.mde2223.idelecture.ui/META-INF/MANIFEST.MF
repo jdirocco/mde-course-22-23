@@ -4,6 +4,8 @@ Bundle-Name: Mde2223
 Bundle-SymbolicName: it.disim.mde2223.idelecture.ui;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Require-Bundle: org.eclipse.ui,
- it.disim.mde2223.idelecture.business;bundle-version="1.0.0"
+ it.disim.mde2223.idelecture.business;bundle-version="1.0.0",
+ org.eclipse.emf.common
 Automatic-Module-Name: it.disim.mde2223
 Bundle-RequiredExecutionEnvironment: JavaSE-17
+Import-Package: Web
